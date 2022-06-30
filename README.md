@@ -1,5 +1,6 @@
 # lazycalculator
 
+Credits to Hyperskill project
 Command line-using program to master loops and Flowcharts
 
 ![image](https://user-images.githubusercontent.com/99531687/176707727-79208732-d93f-4273-9d33-706bd7216440.png)
