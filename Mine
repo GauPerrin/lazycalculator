@@ -1,4 +1,4 @@
-from eth_utils import is_integer
+
 
 
 msg_3 = "Yeah... division by zero. Smart move..."
